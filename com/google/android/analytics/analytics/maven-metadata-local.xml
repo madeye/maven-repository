@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.android.analytics</groupId>
+  <artifactId>analytics</artifactId>
+  <versioning>
+    <release>V2</release>
+    <versions>
+      <version>V2</version>
+    </versions>
+    <lastUpdated>20120908102613</lastUpdated>
+  </versioning>
+</metadata>
