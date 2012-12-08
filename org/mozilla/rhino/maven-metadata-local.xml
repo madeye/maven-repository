@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mozilla</groupId>
+  <artifactId>rhino</artifactId>
+  <versioning>
+    <release>1.7R2_android</release>
+    <versions>
+      <version>1.7R2_android</version>
+    </versions>
+    <lastUpdated>20121208041555</lastUpdated>
+  </versioning>
+</metadata>
