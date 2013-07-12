@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="org.scala-sbt" module="sbt-android" revision="0.6.4-SNAPSHOT" status="integration" publication="20130628154802" e:scalaVersion="2.9.2" e:sbtVersion="0.12">
+	<info organisation="org.scala-sbt" module="sbt-android" revision="0.6.4-SNAPSHOT" status="integration" publication="20130712204326" e:scalaVersion="2.9.2" e:sbtVersion="0.12">
 		<description>
 		sbt-android
 		</description>
