@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.getlantern</groupId>
+  <artifactId>libflashlight</artifactId>
+  <versioning>
+    <release>nightly</release>
+    <versions>
+      <version>nightly</version>
+    </versions>
+    <lastUpdated>20150819072516</lastUpdated>
+  </versioning>
+</metadata>
