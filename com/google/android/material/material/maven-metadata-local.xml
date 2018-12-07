@@ -3,9 +3,11 @@
   <groupId>com.google.android.material</groupId>
   <artifactId>material</artifactId>
   <versioning>
+    <release>1.1.0-SNAPSHOT01</release>
     <versions>
       <version>1.1.0-SNAPSHOT</version>
+      <version>1.1.0-SNAPSHOT01</version>
     </versions>
-    <lastUpdated>20181207051058</lastUpdated>
+    <lastUpdated>20181207060225</lastUpdated>
   </versioning>
 </metadata>
